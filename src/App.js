@@ -52,7 +52,7 @@ function App() {
             <p style={{opacity: 1, display: 'block'}}>I also run an off-road accessories brand <a href="https://www.nowmadstudio.com" target="_blank" rel="noopener noreferrer">Nowmad</a> where I design and develop every product myself.</p>
           </div>
         </section>
-        <img src="./simg.png" alt="Chen Fang" className="main_img" />
+        <img src="simg.png" alt="Chen Fang" className="main_img" />
         </div>
         <section id='project'>
           <h2 className='projects'>Projects</h2>
