@@ -47,7 +47,7 @@ function App() {
             <p>
             Chen has a keen interest in Computer Vision and Machine Learning technologies. He is actively expanding his knowledge and skills in these areas, driven by both curiosity and the desire to contribute meaningfully to technological innovation.
             </p>
-            <p> Chen is currently seeking internship opportunities in software engineering, where he hopes to apply his technical expertise, collaborate on impactful projects, and further develop his professional skills.
+            <p> Chen is currently seeking internship opportunities in software engineering, where he hopes to apply his technical expertise, collaborate on impactful projects, and further develop his professional skills test test -----.
             </p>
             <p style={{opacity: 1, display: 'block'}}>I also run an off-road accessories brand <a href="https://www.nowmadstudio.com" target="_blank" rel="noopener noreferrer">Nowmad</a> where I design and develop every product myself.</p>
           </div>
