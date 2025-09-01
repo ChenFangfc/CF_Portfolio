@@ -69,7 +69,7 @@ function App() {
                 <li>Created professional UI with custom avatars, loading animations, and auto-scrolling using React hooks and state management</li>
                 <li>Designed platform to support police academy programs, allowing instructors to monitor and assess trainee performance with AI agents</li>
               </ul>
-              <img src="./Police_img.png" alt="Police Training Platform" className="project-image" />
+              <img src="Police_img.png" alt="Police Training Platform" className="project-image" />
             </div>
             
             <div className='project-item'>
@@ -86,7 +86,7 @@ function App() {
                 <li>Created comprehensive apartment database with 7 realistic campus-area properties including pricing, amenities, and ratings</li>
                 <li>Utilized modern JavaScript ES6+, React hooks, and responsive CSS design for optimal user experience</li>
               </ul>
-              <img src="./Campus_img.png" alt="CampusCrib Platform" className="project-image" />
+              <img src="Campus_img.png" alt="CampusCrib Platform" className="project-image" />
             </div>
             
             <div className='project-item'>
